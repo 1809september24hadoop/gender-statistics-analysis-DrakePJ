@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>gender-statistics-analysis-DrakePJ</name>
+=======
+	<name>WordCount</name>
+>>>>>>> f71e2193ffd5d47355f65c83afa87d1841a4f81b
 	<comment></comment>
 	<projects>
 	</projects>
